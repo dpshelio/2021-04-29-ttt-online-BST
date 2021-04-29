@@ -41,6 +41,36 @@
 | If you don't teach concepts behind things, how do you prevent students from falling into the same traps as learning by themselves? (e.g. bad coding practices) |     0 |
 ## Afternoon - Instructor:  Evgenij
 
+### one thing you learned this morning that you found useful
+
+|                                                                                                                                                                                    |       |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Point                                                                                                                                                                              | Votes |
+| Would be good for those who haven't attended a carpentries workshop to see what the 'final product' looks like early on the first day                                              |     3 |
+| Peer feedback on 90s teaching spot                                                                                                                                                 |     1 |
+| Try to keep students' motivation up and give them confidence that they can do it                                                                                                   |     1 |
+| ○ inculcate growth mindset in student   § make praise based on improvement (and efforts) > achievement avoid "you're a natural" etc.                                               |     0 |
+| Content / delivery as aspects of teaching performance (focuses for improvement, etc.)                                                                                              |     0 |
+| Very minor bit of feedback but in the morning some of David's face was often covered by the zoom banner. Might be better to have it at the top of the slides instead of the bottom |     0 |
+| Request feedback on teaching more often                                                                                                                                            |     0 |
+| Ask for feedback                                                                                                                                                                   |     0 |
+| Format: good balance between teaching/interactive exercises/breaks - great interaction in the chats and on the google doc + be confident teachers :)                               |     0 |
+| Formative assessment is a good practice to improve quality of teaching.                                                                                                            |     0 |
+| Explicitely address motivation & mindset                                                                                                                                           |     0 |
+| always check in with the students, as feedback regularly not only after the session                                                                                                |     0 |
+| accessibility document provided a lot of resources                                                                                                                                 |     0 |
+| How many aspects there are when considering accessibility                                                                                                                          |     0 |
+| Dismissive language - avioid seemingly encouraging words like "just", "simple", "easy" etc.                                                                                        |     0 |
+
+### one question you have about the material
+
+|                                                                                                                                      |       |
+|--------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Point                                                                                                                                | Votes |
+| Should we be concerned that some of the material appears to be based on TED talks rather than pedagogy supported by robust evidence? |     1 |
+| For the teaching demo of an episode, can the introduction to episode be outside the timer?                                           |     1 |
+| Accessibility: is there best-practices that should be followed during teaching/live-coding? (contrast, color profile,...)            |     1 |
+| format: the Etherpad was not really used enough to warrant its existence? Maybe just give straight the Google Doc link               |     0 |
 
 
 # Day 2
