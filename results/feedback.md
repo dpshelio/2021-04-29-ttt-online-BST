@@ -4,9 +4,8 @@
 
 ### one thing you learned this morning that you found useful
 
-|                                                                                                                           |       |
-|---------------------------------------------------------------------------------------------------------------------------|-------|
 | Point                                                                                                                     | Votes |
+|---------------------------------------------------------------------------------------------------------------------------|-------|
 | being aware of language used during the teaching                                                                          |     4 |
 | The impact that language can have                                                                                         |     3 |
 | be aware of the expert awareness gap                                                                                      |     3 |
@@ -24,9 +23,8 @@
 
 ###  one question you have about the material
 
-|                                                                                                                                                                |       |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | Point                                                                                                                                                          | Votes |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | How does one reinforce the learning for most students without boring the faster students?                                                                      |     3 |
 | Do you find teaching material needed updating due to exclusive virtual meetings these days? And if so, what were the most significant parts?                   |     3 |
 | How to reassure participants about a topic they find daunting without using the forbidden dismissive words?                                                    |     2 |
@@ -43,9 +41,8 @@
 
 ### one thing you learned this morning that you found useful
 
-|                                                                                                                                                                                    |       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | Point                                                                                                                                                                              | Votes |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | Would be good for those who haven't attended a carpentries workshop to see what the 'final product' looks like early on the first day                                              |     3 |
 | Peer feedback on 90s teaching spot                                                                                                                                                 |     1 |
 | Try to keep students' motivation up and give them confidence that they can do it                                                                                                   |     1 |
@@ -64,9 +61,8 @@
 
 ### one question you have about the material
 
-|                                                                                                                                      |       |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------|
 | Point                                                                                                                                | Votes |
+|--------------------------------------------------------------------------------------------------------------------------------------|-------|
 | Should we be concerned that some of the material appears to be based on TED talks rather than pedagogy supported by robust evidence? |     1 |
 | For the teaching demo of an episode, can the introduction to episode be outside the timer?                                           |     1 |
 | Accessibility: is there best-practices that should be followed during teaching/live-coding? (contrast, color profile,...)            |     1 |

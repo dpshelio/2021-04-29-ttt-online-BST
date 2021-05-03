@@ -1,31 +1,31 @@
 ### Day 1 - morning
 
 - Matt: There seems to be a tension between 'believes they are the best' and ‘open to feedback’ - worth discussing? Are either hallmarks of competence?
-      - Evgenij: good point Matt. We should come back to this in a moment. definitely wrth discussing. often We see Dunning Kruger effect: compenent people think they are experts : >
-      - Matt: And imposter effects where experts think they are barely even competent.
-      - James: My impression is that competence is independent of those things ^^, and is probably a function of actual ability to do stuff (rather than perceived ability)
-      - Evgenij: also some people may be expert in a discipline but at the same time novice at giving and providing feedback. We will mention Imposter Effect in more detail in the afternoon. Here the focus is on 'Mental Models'
+    - Evgenij: good point Matt. We should come back to this in a moment. definitely wrth discussing. often We see Dunning Kruger effect: compenent people think they are experts : >
+    - Matt: And imposter effects where experts think they are barely even competent.
+    - James: My impression is that competence is independent of those things ^^, and is probably a function of actual ability to do stuff (rather than perceived ability)
+    - Evgenij: also some people may be expert in a discipline but at the same time novice at giving and providing feedback. We will mention Imposter Effect in more detail in the afternoon. Here the focus is on 'Mental Models'
 
 - Matt: A driver's knowledge is more procedural than conceptual, no? One can be a competent driver while possessing only novice concepts about how a car works.
-      - James: I would have said that an expert driver can have little understanding of how the car works? Just a very good understanding of how to drive. I guess we have to distinguish what we are saying they are competent in (driving vs. understanding car)
-              - Evgenij: I agree. That also illustrates the danger of using analogies, often they go only so far and break down under scrutiny. One thing we will come back to is that competemnce in an area and compentence in teaching may actually not be strongly correlated aand bot h require deliberate practice
-              - David: good point James, you are right, you could be a 1 driver and have very little ide of how the engine works. My reasoning was more about knows how to start, when and why need to change gears - though may not understand the physics/engineering of that.
+    - James: I would have said that an expert driver can have little understanding of how the car works? Just a very good understanding of how to drive. I guess we have to distinguish what we are saying they are competent in (driving vs. understanding car)
+        - Evgenij: I agree. That also illustrates the danger of using analogies, often they go only so far and break down under scrutiny. One thing we will come back to is that competemnce in an area and compentence in teaching may actually not be strongly correlated aand bot h require deliberate practice
+        - David: good point James, you are right, you could be a 1 driver and have very little ide of how the engine works. My reasoning was more about knows how to start, when and why need to change gears - though may not understand the physics/engineering of that.
 
 - Evgenij: As a side note: the Carpentries model of skill acquisition is a simplified version of the 5-stage model by Dreyfus and Dreyfus
-      - Matt: [Though they're not 'stages' in the Piajet Developmental Stages sense.]
-      - Evgenij: Concept map is not how learning happens in the brain but we use it as Balls-and-sticks model is used in chemistry to explain molecular bindings
+    - Matt: [Though they're not 'stages' in the Piajet Developmental Stages sense.]
+    - Evgenij: Concept map is not how learning happens in the brain but we use it as Balls-and-sticks model is used in chemistry to explain molecular bindings
 
 - Vanessa: This was a really hard exercise but interesting! May have been a littler easier to get started with a good example :)
-      - James: + 1
+    - James: + 1
 
 - Matt:  The mental models in Refilwe’s example are important because when you get odd resuits you need to know if you've ‘got problems with your data pipeline, measurement equipment, or understanding of the atmospheric systems :)
-      - Refilwe: indeed Matt.
+     Refilwe: indeed Matt.
 
 - Evgenij: we could call that person "Car User"
-      - Matt: Driving a car is procedural knowledge which can be quite difficult to verbalise and teach!
-      - Evgenij: and in the past people who owned cars knew much more about how to fix them (but it was also easier as cars were less complex)
-      - Matt: It's almost impossible to explain to someone how to ride a bike (or even explain how _you_ ride a bike). [to take a classic example]
-      - Evgenij: an example of ongoing specialisation in society
+    - Matt: Driving a car is procedural knowledge which can be quite difficult to verbalise and teach!
+    - Evgenij: and in the past people who owned cars knew much more about how to fix them (but it was also easier as cars were less complex)
+    - Matt: It's almost impossible to explain to someone how to ride a bike (or even explain how _you_ ride a bike). [to take a classic example]
+    - Evgenij: an example of ongoing specialisation in society
 
 - Bjorn: So it's better to add few connected bubbles rather than adding lots of bubbles and connecting them later? (for novices)
     - Evgenij: yes the whole lesson may have a large associate concept map and wezoom in on a subsection at a time
