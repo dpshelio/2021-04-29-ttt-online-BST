@@ -528,7 +528,7 @@ mean of the differences
 - Funny how many of those tips would just make life easier for all readers, not just those with accessibility difficulties ++++++
     - This is called the ‘cut curb principle’, after the discovery that implementing dips where the pavement slopes down into the road for wheelchair users actually afforded benefits to a wide number of other users, such as people using pushchairs.👍
     - People may also have temporary or situational accessibility needs:
-    - [](https://3.bp.blogspot.com/-KA0xQK7DTgE/W_IbKW2GymI/AAAAAAAAcc0/EWoa1m71-Dohd0wPBYg28GWc7_6A7wPmQCLcBGAs/s1600/Microsoft_PersonaSpectrum.PNG) Inclusive A Microsoft Design Toolkit.
+    - ![](https://3.bp.blogspot.com/-KA0xQK7DTgE/W_IbKW2GymI/AAAAAAAAcc0/EWoa1m71-Dohd0wPBYg28GWc7_6A7wPmQCLcBGAs/s1600/Microsoft_PersonaSpectrum.PNG) Inclusive A Microsoft Design Toolkit.
     - 👍
 - Did not consider yet how bright contrasting colours may be inappropriate
 - Unfortunately, some recommendations exclude each other, you have to choose which group you want to be targeting/excluding
