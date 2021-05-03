@@ -94,7 +94,7 @@
 different ways of presenting material, which may be more or less effective for a specific combination of learner, material, and presentation, is fairly well supported.
 
 
-### Day 2 - afternoon
+### Day 1 - afternoon
 
 
 - James: So it's kind of ‘ability'?
