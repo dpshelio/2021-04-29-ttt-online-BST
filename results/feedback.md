@@ -98,3 +98,87 @@
 | today was very limited time with all participants (mostly breakout rooms), thus better structuring of time and use of presentation needed  |     0 |
 
 ## Afternoon - Instructor:  Evgenij
+
+### Keep
+
+| Point                                                                                                    | Votes |
+|----------------------------------------------------------------------------------------------------------|-------|
+| The exercises                                                                                            |     0 |
+| the introduction practice session                                                                        |     0 |
+| [meta] i think this feedback format is easier/clearer than the post it things +                          |     1 |
+| shared document for exercises (instead of having to speak) is really good for introverts/shy people ++++ |     4 |
+| The elaborate explanation when we do not understand                                                      |     0 |
+| the question section in the shared document & thoroughly answering them ++++                             |     4 |
+| sharing extra links, information etc.++                                                                  |     2 |
+
+
+### Improve
+
+| Point                                                                                                                                                                                                                                              | Votes |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Please don’t just read slides out+                                                                                                                                                                                                                 |     1 |
+| be confident in what you have to say, we are here because we want to hear from you, you don’t need to apologize for something taking a certain amount of time, also the break ‘exercises’ were fun, don’t say ‘you don’t need to do it’ upfront :) |     0 |
+| a few violations of the concepts you are teaching (e.g. “Any questions?” and directly moving on) +                                                                                                                                                 |     1 |
+| I thought the live coding sessions could be longer (5-10 minutes) to really get a feel for it ++                                                                                                                                                   |     2 |
+| Live coding/teaching demo should include running a formative assessment of some kind ++++                                                                                                                                                          |     4 |
+| More guidance where in the document/at what exercise you are ++                                                                                                                                                                                    |     2 |
+| Maybe screen sharing more often?                                                                                                                                                                                                                   |     0 |
+| being supposed to discuss while following what other groups are typing in the shared document is tiring                                                                                                                                            |     0 |
+| Include preparation time for live coding IN the workshop +++                                                                                                                                                                                       |     3 |
+
+
+# Feedback for the whole workshop
+
+### Keep
+
+| Point                                                                                                                    | Votes |
+|--------------------------------------------------------------------------------------------------------------------------|-------|
+| Live coding sessions (most useful part of the two days for me) ++++++                                                    |     6 |
+| timing overall was very good, 5 minutes +- here and there don’t matter for most people these days ++                     |     2 |
+| facilitating discussions in chat were very good                                                                          |     0 |
+| I like this google document as a way of discussing things and i think the anonymity is helpful +++++                     |     5 |
+| Practice sessions for introductions & live coding; build skills around specific aspects of actually running a workshop + |     1 |
+| Parallel conversations in chat were good ++++                                                                            |     4 |
+| Responding to the feedback given ++                                                                                      |     2 |
+
+### Improve
+
+| Point                                                                                                                                                                                                                                                                                                                                                                            | Votes |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Need some exercise that takes into account the timing of the lessons. I feel confident I can do live coding now, but not that I can do it within the allocated time for that episode, which seems really important for an actual workshop ++++                                                                                                                                   |     4 |
+| being all together in the main room vs breakout rooms was not very balanced between day 1 and day 2 +                                                                                                                                                                                                                                                                            |     1 |
+| Could cover more information about how to adapt workshops (e.g. what to do if you only have half a day) ++                                                                                                                                                                                                                                                                       |     2 |
+| if possible, try to put all information, especially all links in the Google Doc - it was a very helpful tool overall, maybe even put in the rough timing, like 3:00 PM this session etc. +                                                                                                                                                                                       |     1 |
+| slides could have been used more effectively                                                                                                                                                                                                                                                                                                                                     |     0 |
+| Being expected to sign up for checkout sessions during this workshop was a bit jarring, I need to check my calendar! But great that you showed us where to find it, it’s not terribly clear ++++                                                                                                                                                                                 |     4 |
+| Should allow the ability to copy or export the chat text. +                                                                                                                                                                                                                                                                                                                      |     1 |
+| Potentially add some instruction on the practicalities of setting up and running a workshop - e.g. setting up website, registering with SC centrally, contacting students in advance, etc. ++++                                                                                                                                                                                  |     4 |
+| Yeah one of the things on the pre-/post-workshop survey asked if we felt prepared to make a website and I don’t feel like that was directly addressed in the sessions                                                                                                                                                                                                            |     0 |
+| I think the practical aspects of the workshop were much more useful for me than the theoretical aspects. I would like to have more practice setting up, getting timings right, understanding practically how to do the workshops (what software, how to set up your computers, how to adapt lessons). I didn’t really understand, for example, how I would use Bloom’s taxonomy. |     0 |
+| giving more examples would have been helpful, e. g. show with one lesson/episode how to implement MCQ etc. +++                                                                                                                                                                                                                                                                   |     3 |
+| When Evgenij shared the screen I could use a side-by-side gallery of participants + shared screen focus (and annotation was available). When David used OBS these Zoom tools weren’t available, which worked less well for my setup.                                                                                                                                             |     0 |
+| OBS also blurred the quality for me                                                                                                                                                                                                                                                                                                                                              |     0 |
+| rushing through content because of time issues/constantly reminding that we are running late - if you as experts do not manage, how should we?                                                                                                                                                                                                                                   |     0 |
+| - I guess if there’s a good discussion going you don’t want to stifle it, better to cut something else down slightly instead?                                                                                                                                                                                                                                                    |     0 |
+| - If you are aware of it beforehand, perhaps better to reduce the curriculum right away?                                                                                                                                                                                                                                                                                         |     0 |
+| - or simply don’t constantly mention that there is a time issue? Just use the time to say what you want to say/teach :)                                                                                                                                                                                                                                                          |     0 |
+| Spread the workshop over 3 days if online.                                                                                                                                                                                                                                                                                                                                       |     0 |
+| - But the immersion of 2 full days was pretty good - going back to work for an afternoon in the middle would break that +++                                                                                                                                                                                                                                                      |     3 |
+
+
+# Overall notes by the instructors
+
+- **Google docs**:
+    - ❌ in etherpad you get a feeling of how many are contributing with the colours.
+    - ✅ Add images (like bloom's taxonomy, ...) there, so it's easier to the
+      learners to refer to that.
+    - Remember to leave gaps with a set of number of empty list of bullet points
+      after each question, so it's easier for the participants to type at
+      different places without "eating" others.
+- **Google slides**:
+    - what if google fails? have a pdf copy downloaded in case.
+    - kiosk slides before workshop: put background music so when participants
+      connect know their sound is working.
+- **zoom**:
+    - Ask the carpentries to check whether the non-verbal feedback are correctly set (so they work as post-its)
+    - Ask the carpentries to allow chat to be saved.
