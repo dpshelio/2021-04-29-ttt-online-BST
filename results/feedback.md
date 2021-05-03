@@ -77,4 +77,24 @@
 
 ## Morning - Instructor: David
 
+### what is one thing the instructor did well today?
+
+| Point                                                             | Votes |
+|-------------------------------------------------------------------|-------|
+| Engaging presentation, clear enthusiasm re. topic; easy to follow | 2     |
+| positive learning environment, answering questions                | 1     |
+| really friendly and helpful attitude                              | 1     |
+| always left room for questions and discussions                    | 0     |
+
+
+###  what is one thing the instructor can improve?
+
+| Point                                                                                                                                      | Votes |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| clarify schedule and time for breaks and breakout rooms a bit more (difference in initial schedule vs google doc vs actual implementation) |     2 |
+| post links (videos etc.) also in the zoom chat                                                                                             |     2 |
+| scrolling over text while picking out few points is not the most accessible way to summarize an exercise (Google Docs appears blurred)     |     1 |
+| use formative assessments if people are e.g. able to fullfill excercises in the given time frame                                           |     0 |
+| today was very limited time with all participants (mostly breakout rooms), thus better structuring of time and use of presentation needed  |     0 |
+
 ## Afternoon - Instructor:  Evgenij
